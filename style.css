@@ -1,0 +1,58 @@
+
+        * {
+            margin: 0;
+            padding: 0;
+            
+        }
+        body{
+            color: white;
+            font-family: 'Poppins', sans-serif;
+            background-color: rgb(6, 6, 87);
+        }
+        header {
+            display: flex;
+            justify-content: center;
+            background-color: rgb(58, 58, 195);
+            height: 85px;
+            align-items: center;
+        }
+
+        
+        /* section form{
+            background-color: rgb(58, 58, 195);
+            align-items: center;
+            margin:  3% 34%;
+            padding: 13px;
+       
+        } */
+        .field{
+           margin: 12px; 
+        }
+        .Title{
+            display: flex;
+            justify-content: center;
+            margin-top: 3%;
+            }
+ 
+       .btn{
+         /* margin: 0px 12px; */
+         font-size: .9rem;
+       } 
+
+
+       form{
+        border:1px solid blue;
+        background-color: rgb(58, 58, 195);
+        text-align: center;
+       margin: 0% 32%;
+       }
+
+        form div input{
+            height: 18px;
+            width: 63%;
+        }
+        .result{
+             margin:1%;
+             text-align:center;
+        }
+   
